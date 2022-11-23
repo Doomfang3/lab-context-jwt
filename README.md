@@ -4,6 +4,8 @@
 
 ![alt](https://media.giphy.com/media/1l9I0TV4agZYk0iu0P/giphy.gif)
 
+Use `npm run deps` to install dependencies on the frontend and backend.
+
 Use `npm run front` to run the front end and in another terminal `npm run back` to run the backend.
 
 ---
