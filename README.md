@@ -32,7 +32,7 @@ _Remember that Fetch needs headers to send JSON._
 
 Use the SessionContext.jsx file to create the context that's going to register your token and make it available across your application.
 
-_Don't forget to wrap your provider around your App_
+_Don't forget to wrap your provider around your App._
 
 ---
 
