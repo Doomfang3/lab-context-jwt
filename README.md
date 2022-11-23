@@ -12,7 +12,7 @@ Use `npm run front` to run the front end and in another terminal `npm run back` 
 
 ## Set up our routes
 
-![alt](https://media.giphy.com/media/H7rpSYHRyYgamxQNqw/giphy-downsized-large.gif)
+![alt](https://www.teslarati.com/wp-content/uploads/2021/08/tesla-fsd-beta-10-release-date-.gif)
 
 Setup your Signup and Login routes on the backend, we're gonna work on the verify one later.
 
